@@ -1,0 +1,21 @@
+{
+  "name": "wdc",
+  "version": "1.0.0",
+  "description": "starter template for the session",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "wdc",
+    "dsce"
+  ],
+  "author": "tharunshiv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
